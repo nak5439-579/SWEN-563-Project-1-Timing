@@ -1,0 +1,10 @@
+/Drivers
+/Debug
+.cproject
+.mxproject
+.project
+.settings/language.settings.xml
+*.ioc
+*.launch
+*.ld
+*.s
